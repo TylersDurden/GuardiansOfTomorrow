@@ -10,4 +10,4 @@ existence and, before leaving, choose one world to safeguard their legacy. No on
 Agares constellation would have immeasurable capabilities left to their devices.
 
 
-![Buy Book One Here](https://www.xlibris.com/Bookstore/BookDetail.aspx?BookId=SKU-001212828)
+[Buy Book One Here](https://www.xlibris.com/Bookstore/BookDetail.aspx?BookId=SKU-001212828)
