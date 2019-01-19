@@ -1,6 +1,5 @@
-# The Guardians Of Tommorrow
 ![Guardians](https://raw.githubusercontent.com/TylersDurden/TheGuardiansOfTomorrow/master/Guardians/imgs/guardian_banner.jpg)
-
+# The Guardians Of Tommorrow
 **A Science Fiction Novel by Tom Robbins**
 
 ## The Rise of Veratta
