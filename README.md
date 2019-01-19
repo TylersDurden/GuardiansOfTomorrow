@@ -1,3 +1,3 @@
 # TheGuardiansOfTomorrow
-![Guardians](https://www.github.com/TylersDurden/GuardiansOfTommorrow/master/images/home.jpeg)
+![Guardians](https://raw.githubusercontent.com/TylersDurden/TheGuardiansOfTomorrow/master/Guardians/imgs/guardian_banner.jpg)
 A site for Science Fiction Novel by Tom Robbins
